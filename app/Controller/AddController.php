@@ -11,7 +11,7 @@ class AddController extends AppController {
     public $components = array('Format', 'Check', 'FormatRespon');
 
     /**
-     * addByfieldAndModel method test
+     * addByfieldAndModel method
      * Common
      * @throws Exception
      * @param
