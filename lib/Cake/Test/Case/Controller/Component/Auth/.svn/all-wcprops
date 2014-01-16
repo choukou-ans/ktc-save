@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ans/pmi-ans/!svn/ver/2/trunk/server/lib/Cake/Test/Case/Controller/Component/Auth
+END
+DigestAuthenticateTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/ans/pmi-ans/!svn/ver/2/trunk/server/lib/Cake/Test/Case/Controller/Component/Auth/DigestAuthenticateTest.php
+END
+FormAuthenticateTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/ans/pmi-ans/!svn/ver/2/trunk/server/lib/Cake/Test/Case/Controller/Component/Auth/FormAuthenticateTest.php
+END
+CrudAuthorizeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/ans/pmi-ans/!svn/ver/2/trunk/server/lib/Cake/Test/Case/Controller/Component/Auth/CrudAuthorizeTest.php
+END
+ActionsAuthorizeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/ans/pmi-ans/!svn/ver/2/trunk/server/lib/Cake/Test/Case/Controller/Component/Auth/ActionsAuthorizeTest.php
+END
+ControllerAuthorizeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/ans/pmi-ans/!svn/ver/2/trunk/server/lib/Cake/Test/Case/Controller/Component/Auth/ControllerAuthorizeTest.php
+END
+BlowfishAuthenticateTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/ans/pmi-ans/!svn/ver/2/trunk/server/lib/Cake/Test/Case/Controller/Component/Auth/BlowfishAuthenticateTest.php
+END
+BasicAuthenticateTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/ans/pmi-ans/!svn/ver/2/trunk/server/lib/Cake/Test/Case/Controller/Component/Auth/BasicAuthenticateTest.php
+END

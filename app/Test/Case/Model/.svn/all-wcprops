@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Case/Model
+END
+HoleNumTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Case/Model/HoleNumTest.php
+END
+MPrintPriceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Case/Model/MPrintPriceTest.php
+END
+OutsourceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Case/Model/OutsourceTest.php
+END
+SpecDetailTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Case/Model/SpecDetailTest.php
+END
+MMenuTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Case/Model/MMenuTest.php
+END
+MSplitTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Case/Model/MSplitTest.php
+END
+MReprintTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Case/Model/MReprintTest.php
+END
+SpecOutsourceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Case/Model/SpecOutsourceTest.php
+END
+HoleTypyTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Case/Model/HoleTypyTest.php
+END
+MEditMasterRoleTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Case/Model/MEditMasterRoleTest.php
+END
+PaperInventoryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Case/Model/PaperInventoryTest.php
+END
+PartTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Case/Model/PartTest.php
+END
+HomeDeliveryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Case/Model/HomeDeliveryTest.php
+END
+DeliveryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Case/Model/DeliveryTest.php
+END
+InventoryTypeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Case/Model/InventoryTypeTest.php
+END
+DeliveryNoteDetailTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Case/Model/DeliveryNoteDetailTest.php
+END
+SpecTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Case/Model/SpecTest.php
+END
+BookbindingTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Case/Model/BookbindingTest.php
+END
+DelivoryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Case/Model/DelivoryTest.php
+END
+MTaxTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Case/Model/MTaxTest.php
+END
+MPaperSizeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Case/Model/MPaperSizeTest.php
+END
+MCourierTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Case/Model/MCourierTest.php
+END
+FoldTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Case/Model/FoldTest.php
+END
+MProcessTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Case/Model/MProcessTest.php
+END
+MWithdrawalTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Case/Model/MWithdrawalTest.php
+END
+CustomerDeptTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Case/Model/CustomerDeptTest.php
+END
+MWithdrawalCycleTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Case/Model/MWithdrawalCycleTest.php
+END
+DeliveryNoteTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Case/Model/DeliveryNoteTest.php
+END
+MTaxImputationTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Case/Model/MTaxImputationTest.php
+END
+InventoryTypyTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Case/Model/InventoryTypyTest.php
+END
+MProductPaperSizeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Case/Model/MProductPaperSizeTest.php
+END
+MSelectMasterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Case/Model/MSelectMasterTest.php
+END
+MPrepareFeeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Case/Model/MPrepareFeeTest.php
+END
+MFractionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Case/Model/MFractionTest.php
+END
+MClassifyTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Case/Model/MClassifyTest.php
+END
+BillCodeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Case/Model/BillCodeTest.php
+END
+BookbindDayTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Case/Model/BookbindDayTest.php
+END
+MEditMasterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Case/Model/MEditMasterTest.php
+END
+CustomerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Case/Model/CustomerTest.php
+END
+MPaperTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Case/Model/MPaperTest.php
+END
+CustomerBranchTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Case/Model/CustomerBranchTest.php
+END
+ConsignorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Case/Model/ConsignorTest.php
+END

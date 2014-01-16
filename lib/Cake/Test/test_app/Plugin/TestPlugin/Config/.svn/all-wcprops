@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/ans/pmi-ans/!svn/ver/2/trunk/server/lib/Cake/Test/test_app/Plugin/TestPlugin/Config
+END
+load.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/ans/pmi-ans/!svn/ver/2/trunk/server/lib/Cake/Test/test_app/Plugin/TestPlugin/Config/load.php
+END
+routes.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/ans/pmi-ans/!svn/ver/2/trunk/server/lib/Cake/Test/test_app/Plugin/TestPlugin/Config/routes.php
+END
+bootstrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/ans/pmi-ans/!svn/ver/2/trunk/server/lib/Cake/Test/test_app/Plugin/TestPlugin/Config/bootstrap.php
+END
+more.load.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/ans/pmi-ans/!svn/ver/2/trunk/server/lib/Cake/Test/test_app/Plugin/TestPlugin/Config/more.load.php
+END
+acl.ini.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/ans/pmi-ans/!svn/ver/2/trunk/server/lib/Cake/Test/test_app/Plugin/TestPlugin/Config/acl.ini.php
+END
+custom_config.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/ans/pmi-ans/!svn/ver/2/trunk/server/lib/Cake/Test/test_app/Plugin/TestPlugin/Config/custom_config.php
+END
+nested.ini
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/ans/pmi-ans/!svn/ver/2/trunk/server/lib/Cake/Test/test_app/Plugin/TestPlugin/Config/nested.ini
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ans/pmi-ans/!svn/ver/2/trunk/server/lib/Cake/Test/Case/I18n
+END
+I18nTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ans/pmi-ans/!svn/ver/2/trunk/server/lib/Cake/Test/Case/I18n/I18nTest.php
+END
+MultibyteTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ans/pmi-ans/!svn/ver/2/trunk/server/lib/Cake/Test/Case/I18n/MultibyteTest.php
+END
+L10nTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ans/pmi-ans/!svn/ver/2/trunk/server/lib/Cake/Test/Case/I18n/L10nTest.php
+END

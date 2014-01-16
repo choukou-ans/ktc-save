@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ans/pmi-ans/!svn/ver/2/trunk/server/lib/Cake/Test/bake_compare/Controller
+END
+ActionsWithNoSessions.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/ans/pmi-ans/!svn/ver/2/trunk/server/lib/Cake/Test/bake_compare/Controller/ActionsWithNoSessions.ctp
+END
+ActionsUsingSessions.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/ans/pmi-ans/!svn/ver/2/trunk/server/lib/Cake/Test/bake_compare/Controller/ActionsUsingSessions.ctp
+END
+Scaffold.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ans/pmi-ans/!svn/ver/2/trunk/server/lib/Cake/Test/bake_compare/Controller/Scaffold.ctp
+END
+NoActions.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ans/pmi-ans/!svn/ver/2/trunk/server/lib/Cake/Test/bake_compare/Controller/NoActions.ctp
+END
+NoHelpersOrComponents.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/ans/pmi-ans/!svn/ver/2/trunk/server/lib/Cake/Test/bake_compare/Controller/NoHelpersOrComponents.ctp
+END

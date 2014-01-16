@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/ans/pmi-ans/!svn/ver/1347/trunk/server
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/ans/pmi-ans/!svn/ver/33/trunk/server/.project
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/ans/pmi-ans/!svn/ver/2/trunk/server/index.php
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/ans/pmi-ans/!svn/ver/1237/trunk/server/.htaccess
+END

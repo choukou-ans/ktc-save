@@ -1,0 +1,60 @@
+<?php
+App::uses('HoleTypiesController', 'Controller');
+
+/**
+ * HoleTypiesController Test Case
+ *
+ */
+class HoleTypiesControllerTest extends ControllerTestCase {
+
+/**
+ * Fixtures
+ *
+ * @var array
+ */
+	public $fixtures = array(
+		'app.hole_typy',
+		'app.hole_num'
+	);
+
+/**
+ * testIndex method
+ *
+ * @return void
+ */
+	public function testIndex() {
+	}
+
+/**
+ * testView method
+ *
+ * @return void
+ */
+	public function testView() {
+	}
+
+/**
+ * testAdd method
+ *
+ * @return void
+ */
+	public function testAdd() {
+	}
+
+/**
+ * testEdit method
+ *
+ * @return void
+ */
+	public function testEdit() {
+	}
+
+/**
+ * testDelete method
+ *
+ * @return void
+ */
+	public function testDelete() {
+	}
+
+}

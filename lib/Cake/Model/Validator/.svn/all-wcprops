@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ans/pmi-ans/!svn/ver/2/trunk/server/lib/Cake/Model/Validator
+END
+CakeValidationRule.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/ans/pmi-ans/!svn/ver/2/trunk/server/lib/Cake/Model/Validator/CakeValidationRule.php
+END
+CakeValidationSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/ans/pmi-ans/!svn/ver/2/trunk/server/lib/Cake/Model/Validator/CakeValidationSet.php
+END

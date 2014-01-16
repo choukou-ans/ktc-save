@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Fixture
+END
+HomeDeliveryFixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Fixture/HomeDeliveryFixture.php
+END
+PartFixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Fixture/PartFixture.php
+END
+MEditMasterRoleFixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Fixture/MEditMasterRoleFixture.php
+END
+MReprintFixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Fixture/MReprintFixture.php
+END
+MSplitFixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Fixture/MSplitFixture.php
+END
+MPrepareFeeFixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Fixture/MPrepareFeeFixture.php
+END
+InventoryTypyFixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Fixture/InventoryTypyFixture.php
+END
+OutsourceFixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Fixture/OutsourceFixture.php
+END
+MPrintPriceFixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Fixture/MPrintPriceFixture.php
+END
+MTaxImputationFixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Fixture/MTaxImputationFixture.php
+END
+empty
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Fixture/empty
+END
+DeliveryNoteFixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Fixture/DeliveryNoteFixture.php
+END
+MWithdrawalCycleFixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Fixture/MWithdrawalCycleFixture.php
+END
+MWithdrawalFixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Fixture/MWithdrawalFixture.php
+END
+MProcessFixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Fixture/MProcessFixture.php
+END
+MCourierFixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Fixture/MCourierFixture.php
+END
+MPaperSizeFixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Fixture/MPaperSizeFixture.php
+END
+MPaperFixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Fixture/MPaperFixture.php
+END
+DelivoryFixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Fixture/DelivoryFixture.php
+END
+MTaxFixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Fixture/MTaxFixture.php
+END
+BookbindingFixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Fixture/BookbindingFixture.php
+END
+MEditMasterFixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Fixture/MEditMasterFixture.php
+END
+InventoryTypeFixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Fixture/InventoryTypeFixture.php
+END
+DeliveryFixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Fixture/DeliveryFixture.php
+END
+MClassifyFixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Fixture/MClassifyFixture.php
+END
+PaperInventoryFixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Fixture/PaperInventoryFixture.php
+END
+MFractionFixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Fixture/MFractionFixture.php
+END
+SpecOutsourceFixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Fixture/SpecOutsourceFixture.php
+END
+HoleTypyFixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Fixture/HoleTypyFixture.php
+END
+SpecDetailFixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Fixture/SpecDetailFixture.php
+END
+MMenuFixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Fixture/MMenuFixture.php
+END
+MSelectMasterFixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Fixture/MSelectMasterFixture.php
+END
+MProductPaperSizeFixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Fixture/MProductPaperSizeFixture.php
+END
+HoleNumFixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Fixture/HoleNumFixture.php
+END
+CustomerDeptFixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Fixture/CustomerDeptFixture.php
+END
+ConsignorFixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Fixture/ConsignorFixture.php
+END
+FoldFixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Fixture/FoldFixture.php
+END
+CustomerBranchFixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Fixture/CustomerBranchFixture.php
+END
+CustomerFixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Fixture/CustomerFixture.php
+END
+SpecFixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Fixture/SpecFixture.php
+END
+DeliveryNoteDetailFixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Fixture/DeliveryNoteDetailFixture.php
+END
+BookbindDayFixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Fixture/BookbindDayFixture.php
+END
+BillCodeFixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ans/pmi-ans/!svn/ver/1342/trunk/server/app/Test/Fixture/BillCodeFixture.php
+END

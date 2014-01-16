@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ans/pmi-ans/!svn/ver/2/trunk/server/lib/Cake/View/Scaffolds
+END
+index.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ans/pmi-ans/!svn/ver/2/trunk/server/lib/Cake/View/Scaffolds/index.ctp
+END
+form.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ans/pmi-ans/!svn/ver/2/trunk/server/lib/Cake/View/Scaffolds/form.ctp
+END
+view.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ans/pmi-ans/!svn/ver/2/trunk/server/lib/Cake/View/Scaffolds/view.ctp
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/ans/pmi-ans/!svn/ver/2/trunk/server/lib/Cake/Core
+END
+Configure.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ans/pmi-ans/!svn/ver/2/trunk/server/lib/Cake/Core/Configure.php
+END
+CakePlugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ans/pmi-ans/!svn/ver/2/trunk/server/lib/Cake/Core/CakePlugin.php
+END
+Object.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ans/pmi-ans/!svn/ver/2/trunk/server/lib/Cake/Core/Object.php
+END
+App.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ans/pmi-ans/!svn/ver/2/trunk/server/lib/Cake/Core/App.php
+END

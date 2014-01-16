@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/ans/pmi-ans/!svn/ver/2/trunk/server/lib/Cake
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/ans/pmi-ans/!svn/ver/2/trunk/server/lib/Cake/LICENSE.txt
+END
+bootstrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ans/pmi-ans/!svn/ver/2/trunk/server/lib/Cake/bootstrap.php
+END
+VERSION.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/ans/pmi-ans/!svn/ver/2/trunk/server/lib/Cake/VERSION.txt
+END
+basics.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/ans/pmi-ans/!svn/ver/2/trunk/server/lib/Cake/basics.php
+END

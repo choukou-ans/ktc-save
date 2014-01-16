@@ -1,0 +1,77 @@
+10
+
+dir
+1349
+http://192.168.5.111:8080/ans/pmi-ans/trunk/server/lib/Cake/Test/test_app/Vendor
+http://192.168.5.111:8080/ans/pmi-ans
+
+
+
+2013-11-08T02:55:18.563463Z
+2
+giangnt
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4beda598-d100-4248-b256-54dc39f31a01
+
+Test
+dir
+
+css
+dir
+
+img
+dir
+
+sample
+dir
+
+somename
+dir
+
+welcome.php
+file
+
+
+
+
+2014-01-16T10:21:28.645000Z
+c71366e24c27c7af72bb5002543b369b
+2013-11-08T02:55:18.563463Z
+2
+giangnt
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+798
+

@@ -1,0 +1,132 @@
+10
+
+dir
+1349
+http://192.168.5.111:8080/ans/pmi-ans/trunk/server/lib/Cake/Console/Templates/skel
+http://192.168.5.111:8080/ans/pmi-ans
+
+
+
+2013-11-08T02:55:18.563463Z
+2
+giangnt
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4beda598-d100-4248-b256-54dc39f31a01
+
+.htaccess
+file
+
+
+
+
+2014-01-16T10:21:47.422000Z
+a2a9efe935decfd5f498bf0d83075574
+2013-11-08T02:55:18.563463Z
+2
+giangnt
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+140
+
+Config
+dir
+
+Console
+dir
+
+Controller
+dir
+
+Lib
+dir
+
+Locale
+dir
+
+Model
+dir
+
+Plugin
+dir
+
+Test
+dir
+
+Vendor
+dir
+
+View
+dir
+
+index.php
+file
+
+
+
+
+2014-01-16T10:21:47.469000Z
+3f76b4933e7dced8501f41f88eef346d
+2013-11-08T02:55:18.563463Z
+2
+giangnt
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+701
+
+tmp
+dir
+
+webroot
+dir
+
