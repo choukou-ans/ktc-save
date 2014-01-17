@@ -21,7 +21,8 @@ class SpecController extends AppController {
     public function get_data() {
         $this -> viewClass = 'Json';
         $res = array();
-        $data = $this -> request -> data;
+        //$data = $this -> request -> data;
+        $this->log($data, LOG_DEBUG);
         if (isset($data['id'], $data['token'], $data['user_id'])) {
             try {
                 if (!$this -> Spec -> exists($data['id'])) {
@@ -704,6 +705,9 @@ class SpecController extends AppController {
         if (!$this -> Spec -> exists($id)) {
             return STS_EMPTY;
         } else {
+            
+            $this -> Spec -> unbindModel(array('hasMany' => array('PaperInventory')));
+            
             $this -> Customer -> unbindModel(array('hasMany' => array('ConsignorMap', 'ConsignorList', 'CustomerDept', 'Delivery', 'DeliveryNote', 'Estimate', 'Goods', 'Spec', 'UserCustomerMap')));
             $this -> Customer -> unbindModel(array('belongsTo' => array('User')));
 
